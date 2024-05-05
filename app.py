@@ -14,7 +14,7 @@ windll.user32.SetProcessDPIAware()
 ditudict = newapi.ditudict
 mingling = sys.argv
 if mingling == ['C:\\Users\\Administrator\\Desktop\\new\\app.py'] or mingling == ['C:\\Users\\Administrator\\Desktop\\new\\app.exe']:
-    mingling = ['ceshi1.py','人环','shezhi1','ys','bourbon','chenxiao123','http://dongcxin.com','C:\Program Files\Yuncap\YsPhone']
+    mingling = ['ceshi1.py','人环','shezhi1','ys','username','password','http://dongcxin.com','C:\Program Files\Yuncap\YsPhone']
     #mingling = ['ceshi1.py','跑商','shezhi2','leidian']
 
 username = mingling[4]
